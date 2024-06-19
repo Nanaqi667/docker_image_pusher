@@ -3,5 +3,6 @@ nginx:1.27.0
 alpine:20240606
 mysql:5.7.44
 codercom/code-server:4.90.2
+codercom/code-server:4.19.1
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
